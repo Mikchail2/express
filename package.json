@@ -13,7 +13,7 @@
     "formidable": "^1.2.1",
     "jquery": "^3.3.1",
     "nconf": "^0.10.0",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "normalize.css": "^7.0.0",
     "pug": "^2.0.3"
   }
